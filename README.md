@@ -76,5 +76,5 @@ OnPush change detection + virtual scrolling on live event streams — **10,000+ 
 ---
 
 <p align="center">
-  <i>"I don't just build UIs — I build systems that scale, render fast, and don't fall apart at 10k events."</i>
+  <i>"I don't just build UIs — I build systems that scale, render fast, and don't fall apart."</i>
 </p>
