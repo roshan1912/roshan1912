@@ -1,13 +1,19 @@
-<h1 align="center">Hey there, I'm Roshan 👋</h1>
+<h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
   <em>Frontend Engineer · Angular Architect · D3.js Craftsman · Performance Nerd</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iroshanyadav"><img src="https://img.shields.io/badge/LinkedIn-iroshanyadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:roshanyadav1912@gmail.com"><img src="https://img.shields.io/badge/Gmail-roshanyadav1912-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=roshan1912&style=flat-square&color=blueviolet" alt="Profile views" />
+  <a href="https://linkedin.com/in/iroshanyadav">
+    <img src="https://img.shields.io/badge/LinkedIn-iroshanyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:roshanyadav1912@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-roshanyadav1912-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/roshan1912">
+    <img src="https://komarev.com/ghpvc/?username=roshan1912&style=for-the-badge&color=blueviolet" />
+  </a>
 </p>
 
 ---
@@ -20,49 +26,55 @@ I think in systems — whether that's wiring up a Micro Frontend with Webpack Mo
 
 - 🏢 SDE-1 Frontend Engineer at **CloudXP, Jio Platforms** — powering observability tools for apps like AJIO, Tira Beauty & PeopleFirst
 - 📊 Built a custom D3.js charting library (10+ chart types) adopted across 3+ Jio teams — **40% bundle reduction**
-- ⚡ Optimised APM dashboards to process **10,000+ live events** with sub-second latency using OnPush + virtual scrolling
-- 🏆 Star Performer Award at JPL for data visualisation & charting library delivery
-- 💻 350+ problems solved on LeetCode across 10+ DSA topics
 - 💬 Ask me about Angular architecture, RxJS patterns, D3.js, Micro Frontends, or performance war stories
 
 ---
 
-### 🛠 Tech I work with
+## 🛠️ Languages & Tools
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="36" title="Angular" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="36" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="36" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="36" title="React" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="36" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="36" title="CSS3 / SCSS" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" title="Git" />
-</p>
+**Frontend**
 
-**Frontend:** Angular 14–18 · React · RxJS · NgRx · D3.js · TypeScript · SCSS · Bootstrap  
-**Architecture:** Micro Frontends · Webpack Module Federation · Lazy Loading · OnPush CD · Shadow DOM  
-**Performance:** Core Web Vitals (LCP · INP · CLS) · Web Workers · Virtual Scrolling · AOT · Tree-shaking  
-**Testing & Tooling:** Jasmine · Karma · Cypress · GitHub Copilot · Cursor AI · Azure DevOps · CI/CD  
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev)
+[![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org)
+[![NgRx](https://img.shields.io/badge/-NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)](https://ngrx.io)
+
+**Styling**
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+
+**Backend & Database**
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+**Testing & DevOps**
+
+[![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)](https://jasmine.github.io)
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 ---
 
-### 🚀 What I've shipped at Jio Platforms
+## 🏆 Achievements & Recognition
 
-**📡 Micro Frontend — Monitoring Platform**  
-Architected a Micro Frontend across 30+ microservices using Webpack Module Federation + NgRx with encapsulated Shadow DOM styles for zero-collision enterprise deployment.
-
-**📈 Custom D3.js Charting Library**  
-Designed from scratch — 10+ chart types, composable plugin API, lazy loading, tree-shaking. Adopted by 3+ internal teams. Replaced heavyweight charting dependencies and cut bundle size by **40%**.
-
-**🔍 APM Real User Monitoring (RUM)**  
-Built the RUM frontend for APM with Angular + RxJS, delivering real-time session visibility for high-traffic Jio apps. Engineered a drill-down RCA UI that reduced incident investigation time by **40%**.
-
-**⚡ Dashboard Performance**  
-OnPush change detection + virtual scrolling on live event streams — **10,000+ events, sub-second latency, LCP improved 30%**.
+| 🥇 Star Performer Award | Recognised by Jio Platforms for excellence in data visualisation & delivery of the custom D3.js charting library |
+|---|---|
+| 💻 LeetCode 350+ | Solved 350+ problems across 10+ DSA topics |
+| ☁️ AWS Technical Essentials | Certified — Amazon Web Services |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan1912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
@@ -76,5 +88,5 @@ OnPush change detection + virtual scrolling on live event streams — **10,000+ 
 ---
 
 <p align="center">
-  <i>"I don't just build UIs — I build systems that scale, render fast, and don't fall apart."</i>
+  <i>"I don't just build UIs — I build systems that scale, render fast, and don't fall apart at 10k events."</i>
 </p>
