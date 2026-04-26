@@ -68,7 +68,7 @@ I think in systems — whether that's wiring up a Micro Frontend with Webpack Mo
 
 ## 🏆 Achievements & Recognition
 
-| 🥇 Star Performer Award | Recognised by Jio Platforms for excellence in data visualisation & delivery of the custom D3.js charting library |
+| 🥇 Excellence Award | Recognised by Jio Platforms for excellence in data visualisation & delivery of the custom D3.js charting library |
 |---|---|
 | 💻 LeetCode 350+ | Solved 350+ problems across 10+ DSA topics |
 | ☁️ AWS Technical Essentials | Certified — Amazon Web Services |
