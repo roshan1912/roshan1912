@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
-  <em>Frontend Engineer · Angular Architect · D3.js Craftsman · Performance Nerd</em>
+  <em>Frontend Engineer · Angular Architecture · D3.js and C3.js · Performance Nerd</em>
 </p>
 
 <p align="center">
