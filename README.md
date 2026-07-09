@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
-  <em>Frontend Engineer · Angular Architecture · D3.js and C3.js · Performance Nerd</em>
+  <em>Software Engineer · Angular Architecture · D3.js and C3.js · Performance Nerd</em>
 </p>
 
 <p align="center">
@@ -18,16 +18,15 @@
 
 ---
 
-I'm a Frontend Engineer from **Navi Mumbai, India 🇮🇳** building production-grade Angular systems at enterprise scale.
+I'm a Software Engineer from **Navi Mumbai, India 🇮🇳** building production-grade Angular systems at enterprise scale.
 
 I think in systems — whether that's wiring up a Micro Frontend with Webpack Module Federation, squeezing every millisecond out of a D3.js rendering pipeline, optimizing performance or designing NgRx state that doesn't collapse under real-world load.
 
 **About me**
 
-- 🏢 SDE-1 Frontend Engineer at **Jio Platforms** — powering observability tools for apps like AJIO, Tira Beauty & PeopleFirst
+- 🏢 SDE-1 Software Engineer at **Jio Platforms** — powering observability tools for apps like AJIO, Tira Beauty & PeopleFirst
 - 📊 Built a custom D3.js charting library (10+ chart types) adopted across 3+ Jio teams — **40% bundle reduction**
 - 💬 Ask me about Angular architecture, RxJS patterns, D3.js, Micro Frontends, or performance war stories
-
 ---
 
 ## 🛠️ Languages & Tools
