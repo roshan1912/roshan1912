@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
-  <em>Software Engineer · Java Full Stack Developer · Angular · Spring Boot · Cloud</em>
+  <em>Software Engineer · Full Stack Developer · Angular · Spring Boot · Cloud</em>
 </p>
 
 <p align="center">
@@ -82,8 +82,6 @@ I'm passionate about writing clean, maintainable code, optimizing application pe
 
 ### ☁ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
